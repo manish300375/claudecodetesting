@@ -1,0 +1,21 @@
+{
+  "company_name": "BrightBean Coffee",
+  "logo": "logo.png",
+  "colors": {
+    "primary": "#3E2723",
+    "secondary": "#8D6E63",
+    "accent": "#E8A33D",
+    "text": "#2B2B2B",
+    "background": "#FFFFFF",
+    "muted": "#F6EFE7"
+  },
+  "typography": {
+    "heading_font": "Georgia Bold",
+    "body_font": "Verdana",
+    "heading_file": "fonts/Georgia-Bold.ttf",
+    "body_file": "fonts/Verdana.ttf",
+    "body_bold_file": "fonts/Verdana-Bold.ttf"
+  },
+  "tagline": "Freshly roasted, delivered with care.",
+  "logo_light": "logo_light.png"
+}
